@@ -9,7 +9,8 @@
     <!-- Sætter tegnsætning til utf-8 som bl.a. tillader danske bogstaver -->
     <meta charset="utf-8">
 
-    <!-- Titel som ses oppe i browserens tab mv. -->
+    <!-- Titel som ses oppe i browsere
+  ns tab mv. -->
     <title>Sigende titel</title>
 
     <!-- Metatags der fortæller at søgemaskiner er velkomne, hvem der udgiver siden og copyright information -->
@@ -28,10 +29,13 @@
 <body>
 <?php include"includes/navigation.php";?>
 
+
+
 <div class="main">
 <?php include"includes/main-content.php";?>
 
 </div>
+
 
 
 
