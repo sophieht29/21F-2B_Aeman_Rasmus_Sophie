@@ -30,6 +30,15 @@
 <?php include"includes/navigation.php";?>
 
 
+
+<div class="main">
+<?php include"includes/main-content.php";?>
+
+</div>
+
+
+
+
 <?php include"includes/footer.php"; ?>
 
 </body>
