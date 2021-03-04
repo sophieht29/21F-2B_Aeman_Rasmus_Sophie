@@ -20,11 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af1c6b8d-1bb6-4790-9993-f69481ad0dd9" name="Default Changelist" comment=" tema 2.1">
+      <change afterPath="$PROJECT_DIR$/includes/forside.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/includes/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/footer.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +38,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Aemantas3" />
+        <entry key="$PROJECT_DIR$" value="Footeren" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -121,7 +121,7 @@
       <workItem from="1614859076551" duration="427000" />
       <workItem from="1614859518256" duration="56000" />
       <workItem from="1614859583530" duration="1004000" />
-      <workItem from="1614860738962" duration="4784000" />
+      <workItem from="1614860738962" duration="6883000" />
     </task>
     <task id="LOCAL-00001" summary="Tema 2.1">
       <created>1614343098005</created>
@@ -144,7 +144,21 @@
       <option name="project" value="LOCAL" />
       <updated>1614347203740</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary=" tema 2.1">
+      <created>1614871877300</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1614871877300</updated>
+    </task>
+    <task id="LOCAL-00005" summary=" tema 2.1">
+      <created>1614871894806</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1614871894806</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,38 +191,42 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="375" y="232" key="EditFileWatcherDialog/0.0.1440.900@0.0.1440.900" timestamp="1614764415350" />
-    <state width="772" height="122" key="GridCell.Tab.0.bottom" timestamp="1614871027894">
-      <screen x="0" y="25" width="1440" height="798" />
+    <state width="1398" height="143" key="GridCell.Tab.0.bottom" timestamp="1614873138803">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="122" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1614870668279" />
+    <state width="1398" height="143" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1614873138803" />
     <state width="938" height="136" key="GridCell.Tab.0.bottom/0.25.1440.797@0.25.1440.797" timestamp="1614859507455" />
     <state width="772" height="122" key="GridCell.Tab.0.bottom/0.25.1440.798@0.25.1440.798" timestamp="1614871027894" />
     <state width="727" height="129" key="GridCell.Tab.0.bottom/0.25.1440.803@0.25.1440.803" timestamp="1614868362233" />
-    <state width="772" height="122" key="GridCell.Tab.0.center" timestamp="1614871027893">
-      <screen x="0" y="25" width="1440" height="798" />
+    <state width="1398" height="143" key="GridCell.Tab.0.center" timestamp="1614873138802">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="122" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1614870668278" />
+    <state width="1398" height="143" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1614873138802" />
     <state width="938" height="136" key="GridCell.Tab.0.center/0.25.1440.797@0.25.1440.797" timestamp="1614859507455" />
     <state width="772" height="122" key="GridCell.Tab.0.center/0.25.1440.798@0.25.1440.798" timestamp="1614871027893" />
     <state width="727" height="129" key="GridCell.Tab.0.center/0.25.1440.803@0.25.1440.803" timestamp="1614868362231" />
-    <state width="772" height="122" key="GridCell.Tab.0.left" timestamp="1614871027893">
-      <screen x="0" y="25" width="1440" height="798" />
+    <state width="1398" height="143" key="GridCell.Tab.0.left" timestamp="1614873138801">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="122" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1614870668277" />
+    <state width="1398" height="143" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1614873138801" />
     <state width="938" height="136" key="GridCell.Tab.0.left/0.25.1440.797@0.25.1440.797" timestamp="1614859507454" />
     <state width="772" height="122" key="GridCell.Tab.0.left/0.25.1440.798@0.25.1440.798" timestamp="1614871027893" />
     <state width="727" height="129" key="GridCell.Tab.0.left/0.25.1440.803@0.25.1440.803" timestamp="1614868362230" />
-    <state width="772" height="122" key="GridCell.Tab.0.right" timestamp="1614871027894">
-      <screen x="0" y="25" width="1440" height="798" />
+    <state width="1398" height="143" key="GridCell.Tab.0.right" timestamp="1614873138802">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="122" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1614870668279" />
+    <state width="1398" height="143" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1614873138802" />
     <state width="938" height="136" key="GridCell.Tab.0.right/0.25.1440.797@0.25.1440.797" timestamp="1614859507455" />
     <state width="772" height="122" key="GridCell.Tab.0.right/0.25.1440.798@0.25.1440.798" timestamp="1614871027894" />
     <state width="727" height="129" key="GridCell.Tab.0.right/0.25.1440.803@0.25.1440.803" timestamp="1614868362231" />
-    <state x="320" y="187" key="Vcs.Push.Dialog.v2" timestamp="1614871079273">
+    <state x="540" y="377" key="NewPhpFileDialog" timestamp="1614873564801">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1614871079273" />
+    <state x="540" y="377" key="NewPhpFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1614873564801" />
+    <state x="320" y="187" key="Vcs.Push.Dialog.v2" timestamp="1614872831415">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1614872831415" />
     <state x="704" y="341" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614638654408">
       <screen x="0" y="25" width="1440" height="797" />
     </state>
