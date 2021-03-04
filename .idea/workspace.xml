@@ -20,12 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af1c6b8d-1bb6-4790-9993-f69481ad0dd9" name="Default Changelist" comment=" tema 2.1">
-      <change afterPath="$PROJECT_DIR$/includes/forside.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +116,7 @@
       <workItem from="1614859076551" duration="427000" />
       <workItem from="1614859518256" duration="56000" />
       <workItem from="1614859583530" duration="1004000" />
-      <workItem from="1614860738962" duration="6883000" />
+      <workItem from="1614860738962" duration="7448000" />
     </task>
     <task id="LOCAL-00001" summary="Tema 2.1">
       <created>1614343098005</created>
@@ -158,7 +153,21 @@
       <option name="project" value="LOCAL" />
       <updated>1614871894806</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary=" tema 2.1">
+      <created>1614873801265</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1614873801265</updated>
+    </task>
+    <task id="LOCAL-00007" summary=" tema 2.1">
+      <created>1614874035682</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1614874035682</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -219,14 +228,14 @@
     <state width="938" height="136" key="GridCell.Tab.0.right/0.25.1440.797@0.25.1440.797" timestamp="1614859507455" />
     <state width="772" height="122" key="GridCell.Tab.0.right/0.25.1440.798@0.25.1440.798" timestamp="1614871027894" />
     <state width="727" height="129" key="GridCell.Tab.0.right/0.25.1440.803@0.25.1440.803" timestamp="1614868362231" />
-    <state x="540" y="377" key="NewPhpFileDialog" timestamp="1614873564801">
+    <state x="540" y="377" key="NewPhpFileDialog" timestamp="1614873973053">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="540" y="377" key="NewPhpFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1614873564801" />
-    <state x="320" y="187" key="Vcs.Push.Dialog.v2" timestamp="1614872831415">
+    <state x="540" y="377" key="NewPhpFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1614873973053" />
+    <state x="320" y="187" key="Vcs.Push.Dialog.v2" timestamp="1614874045918">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1614872831415" />
+    <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1614874045918" />
     <state x="704" y="341" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614638654408">
       <screen x="0" y="25" width="1440" height="797" />
     </state>
