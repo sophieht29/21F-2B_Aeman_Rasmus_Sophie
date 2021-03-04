@@ -28,19 +28,11 @@
 <!-- i <body> har man alt indhold på siden som brugeren kan se -->
 <body>
 <?php include"includes/navigation.php";?>
-<?php include"includes/forside.php";?>
+
 <?php include"includes/nyheder.php";?>
-
-
-<div class="main">
-<?php include"includes/main-content.php";?>
-
-</div>
-
-
-
 
 <?php include"includes/footer.php"; ?>
 
 </body>
 </html>
+
