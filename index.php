@@ -31,6 +31,15 @@
 <?php include"includes/forside.php";?>
 <?php include"includes/nyheder.php";?>
 
+
+<div class="main">
+<?php include"includes/main-content.php";?>
+
+</div>
+
+
+
+
 <?php include"includes/footer.php"; ?>
 
 </body>
