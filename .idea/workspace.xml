@@ -1,9 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="af1c6b8d-1bb6-4790-9993-f69481ad0dd9" name="Default Changelist" comment="">
+    <list default="true" id="af1c6b8d-1bb6-4790-9993-f69481ad0dd9" name="Default Changelist" comment=" tema 2.1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +38,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="Aemantas3" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -32,7 +54,38 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/css/Image" />
+      <recent name="$PROJECT_DIR$/css" />
+      <recent name="$PROJECT_DIR$/css/image" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="sass" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="sass" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.sass" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -44,6 +97,31 @@
       <updated>1614342904654</updated>
       <workItem from="1614342908409" duration="995000" />
       <workItem from="1614344188228" duration="974000" />
+      <workItem from="1614346208777" duration="214000" />
+      <workItem from="1614346491213" duration="5053000" />
+      <workItem from="1614637596703" duration="2421000" />
+      <workItem from="1614678312935" duration="180000" />
+      <workItem from="1614678643862" duration="323000" />
+      <workItem from="1614679017231" duration="1242000" />
+      <workItem from="1614689606921" duration="3868000" />
+      <workItem from="1614715986931" duration="1480000" />
+      <workItem from="1614717566413" duration="1416000" />
+      <workItem from="1614719388666" duration="610000" />
+      <workItem from="1614759815208" duration="192000" />
+      <workItem from="1614760016265" duration="80000" />
+      <workItem from="1614760118890" duration="814000" />
+      <workItem from="1614761300724" duration="437000" />
+      <workItem from="1614761777063" duration="3000" />
+      <workItem from="1614761787761" duration="3000" />
+      <workItem from="1614761797711" duration="1318000" />
+      <workItem from="1614763573057" duration="204000" />
+      <workItem from="1614763812337" duration="6347000" />
+      <workItem from="1614858828530" duration="142000" />
+      <workItem from="1614859004115" duration="59000" />
+      <workItem from="1614859076551" duration="427000" />
+      <workItem from="1614859518256" duration="56000" />
+      <workItem from="1614859583530" duration="1004000" />
+      <workItem from="1614860738962" duration="4784000" />
     </task>
     <task id="LOCAL-00001" summary="Tema 2.1">
       <created>1614343098005</created>
@@ -59,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614344226004</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary=" tema 2.1">
+      <created>1614347203739</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1614347203740</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,6 +164,58 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Tema 2.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tema 2.1" />
+    <MESSAGE value=" tema 2.1" />
+    <option name="LAST_COMMIT_MESSAGE" value=" tema 2.1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="640" y="25" key="#Deployment" timestamp="1614677787907">
+      <screen x="0" y="25" width="1440" height="797" />
+    </state>
+    <state x="520" y="69" key="#Deployment/0.0.1440.900@0.0.1440.900" timestamp="1614592827296" />
+    <state x="640" y="25" key="#Deployment/0.25.1440.797@0.25.1440.797" timestamp="1614677787907" />
+    <state x="375" y="232" key="EditFileWatcherDialog" timestamp="1614764415350">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="375" y="232" key="EditFileWatcherDialog/0.0.1440.900@0.0.1440.900" timestamp="1614764415350" />
+    <state width="772" height="122" key="GridCell.Tab.0.bottom" timestamp="1614871027894">
+      <screen x="0" y="25" width="1440" height="798" />
+    </state>
+    <state width="1398" height="122" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1614870668279" />
+    <state width="938" height="136" key="GridCell.Tab.0.bottom/0.25.1440.797@0.25.1440.797" timestamp="1614859507455" />
+    <state width="772" height="122" key="GridCell.Tab.0.bottom/0.25.1440.798@0.25.1440.798" timestamp="1614871027894" />
+    <state width="727" height="129" key="GridCell.Tab.0.bottom/0.25.1440.803@0.25.1440.803" timestamp="1614868362233" />
+    <state width="772" height="122" key="GridCell.Tab.0.center" timestamp="1614871027893">
+      <screen x="0" y="25" width="1440" height="798" />
+    </state>
+    <state width="1398" height="122" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1614870668278" />
+    <state width="938" height="136" key="GridCell.Tab.0.center/0.25.1440.797@0.25.1440.797" timestamp="1614859507455" />
+    <state width="772" height="122" key="GridCell.Tab.0.center/0.25.1440.798@0.25.1440.798" timestamp="1614871027893" />
+    <state width="727" height="129" key="GridCell.Tab.0.center/0.25.1440.803@0.25.1440.803" timestamp="1614868362231" />
+    <state width="772" height="122" key="GridCell.Tab.0.left" timestamp="1614871027893">
+      <screen x="0" y="25" width="1440" height="798" />
+    </state>
+    <state width="1398" height="122" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1614870668277" />
+    <state width="938" height="136" key="GridCell.Tab.0.left/0.25.1440.797@0.25.1440.797" timestamp="1614859507454" />
+    <state width="772" height="122" key="GridCell.Tab.0.left/0.25.1440.798@0.25.1440.798" timestamp="1614871027893" />
+    <state width="727" height="129" key="GridCell.Tab.0.left/0.25.1440.803@0.25.1440.803" timestamp="1614868362230" />
+    <state width="772" height="122" key="GridCell.Tab.0.right" timestamp="1614871027894">
+      <screen x="0" y="25" width="1440" height="798" />
+    </state>
+    <state width="1398" height="122" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1614870668279" />
+    <state width="938" height="136" key="GridCell.Tab.0.right/0.25.1440.797@0.25.1440.797" timestamp="1614859507455" />
+    <state width="772" height="122" key="GridCell.Tab.0.right/0.25.1440.798@0.25.1440.798" timestamp="1614871027894" />
+    <state width="727" height="129" key="GridCell.Tab.0.right/0.25.1440.803@0.25.1440.803" timestamp="1614868362231" />
+    <state x="320" y="187" key="Vcs.Push.Dialog.v2" timestamp="1614871079273">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1614871079273" />
+    <state x="704" y="341" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614638654408">
+      <screen x="0" y="25" width="1440" height="797" />
+    </state>
+    <state x="704" y="341" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1440.797@0.25.1440.797" timestamp="1614638654408" />
+    <state x="719" y="146" width="670" height="676" key="search.everywhere.popup" timestamp="1614762074586">
+      <screen x="0" y="25" width="1440" height="797" />
+    </state>
+    <state x="719" y="146" width="670" height="676" key="search.everywhere.popup/0.25.1440.797@0.25.1440.797" timestamp="1614762074586" />
   </component>
 </project>
