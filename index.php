@@ -29,8 +29,11 @@
 <?php include"includes/navigation.php";?>
 
 <div class="main">
-    <div>forside</div>
+<?php include"includes/main-content.php";?>
+
 </div>
+
+
 
 <?php include"includes/footer.php"; ?>
 
